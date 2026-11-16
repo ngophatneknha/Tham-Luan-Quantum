@@ -1,0 +1,17 @@
+{
+ "info": {
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "python": "3.13.16",
+  "cpu_count": 2,
+  "total_ram_gb": 12.7,
+  "avail_ram_gb_at_start": 11.4,
+  "cpu": "Intel(R) Xeon(R) CPU @ 2.00GHz",
+  "gpu": "Tesla T4, 15360 MiB, 580.82.07",
+  "qiskit": "2.6.2",
+  "pennylane": "0.45.1",
+  "pennylane-lightning": "0.45.0",
+  "numpy": "2.4.6",
+  "cupy-cuda12x": "14.2.0"
+ },
+ "runs": []
+}
